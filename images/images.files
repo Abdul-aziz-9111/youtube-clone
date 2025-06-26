@@ -1,0 +1,100 @@
+    <img src="https://i.ytimg.com/vi/UrsmFxEIp5k/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBm9X2Vozsbpfw8ihb1mR7DCytnWQ">
+    <img src="https://i.ytimg.com/vi_webp/CLRFCnL-dGM/sddefault.webp">
+    <img src="https://i.ytimg.com/vi/Q38f4frs8yc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUSg6MA8=&rs=AOn4CLCWCmi_1C-zn49upSqe_fu_ja0ahA">
+    <img src="https://i.ytimg.com/vi/Me0Zq_r0X9Y/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_fI-jFw3ZMl4WmtRYdXLiSIPKgw">
+    <img src="https://i.ytimg.com/vi/1OAjeECW90E/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gMygkMA8=&rs=AOn4CLBAN5uPfn_99gykXx7MW0J4St3u-g">
+    <img src="https://i.ytimg.com/vi/Zc_Pi5EbuMw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgPyh_MA8=&rs=AOn4CLAgylYvonoJnyy7Obzlxm7T2xVUgA">
+  <img src="https://i.ytimg.com/vi/58r8MDf5sxQ/hqdefault.jpg">
+  <img src="https://i.ytimg.com/vi/3VJmxJ1BRCM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgXCh_MA8=&rs=AOn4CLA_G9hTgv4N5hfTacq2GzFhj84MBA">
+<img src="https://i.ytimg.com/vi/P5t8GF_NTuE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYCgTMA8=&rs=AOn4CLCGQLujPFUaFf48UEHfXK1ldoPY-Q">
+
+
+
+.bigbox7{
+    margin-left:0.5%;
+    height:45vh;
+    width:25vw;
+    border:1px solid black;
+}
+.bigbox8{
+    margin-left:0.5%;
+    height:45vh;
+    width:25vw;
+    border:1px solid black;
+}
+.bigbox9{
+    margin-left:0.5%;
+    height:45vh;
+    width:25vw;
+    border:1px solid black;
+}
+
+.imagebox{
+border-radius: 10px;
+    height:29vh;
+    width:24.5vw;
+    border:1px solid black;
+margin-top:0.5%;
+margin-left:0.5%;
+}
+
+.imagebox:hover{
+    border-radius: 0px;
+}
+
+img{
+border-radius: 10px;
+    height:29vh;
+    width:24.5vw;
+    border:1px solid black;
+
+}
+img:hover{
+    border-radius: 0px;
+}
+
+
+
+
+    <div class="bigbox7">
+                <div class="imagebox">
+            <img src="ones.jpg">
+            
+                </div>
+            <div class="content">
+  <img src="ones.jpg" style="margin-left:2px;margin-top:-0.01rem;width:40px;height:40px;border-radius: 50%;position: absolute;">
+  
+                <h1 style="font-size: 17px;margin-left:3rem;margin-top:0.5rem;">Python tutorial for beginners in Hindi<br>| complete python courses</h1>
+    <h2 style="margin-left:3rem;font-weight:600;font-size:15px;margin-top:0.2rem;color:rgb(66, 63, 63);">CodeWithHarry</h2>   
+<h4 style="font-size:13px;margin-left:3rem;margin-top:0.2rem;color:rgb(71, 71, 71)">9.7M Views - 1 year ago</h4>
+</div>   
+
+    </div>
+    <div class="bigbox8">
+                <div class="imagebox">
+            <img src="ones.jpg">
+            
+                </div>
+            <div class="content">
+  <img src="ones.jpg" style="margin-left:2px;margin-top:-0.01rem;width:40px;height:40px;border-radius: 50%;position: absolute;">
+  
+                <h1 style="font-size: 17px;margin-left:3rem;margin-top:0.5rem;">Python tutorial for beginners in Hindi<br>| complete python courses</h1>
+    <h2 style="margin-left:3rem;font-weight:600;font-size:15px;margin-top:0.2rem;color:rgb(66, 63, 63);">CodeWithHarry</h2>   
+<h4 style="font-size:13px;margin-left:3rem;margin-top:0.2rem;color:rgb(71, 71, 71)">9.7M Views - 1 year ago</h4>
+</div>   
+
+    </div>
+    <div class="bigbox9">
+                <div class="imagebox">
+            <img src="ones.jpg">
+            
+                </div>
+  
+            <div class="content">
+  <img src="ones.jpg" style="margin-left:2px;margin-top:-0.01rem;width:40px;height:40px;border-radius: 50%;position: absolute;">
+  
+                <h1 style="font-size: 17px;margin-left:3rem;margin-top:0.5rem;">Python tutorial for beginners in Hindi<br>| complete python courses</h1>
+    <h2 style="margin-left:3rem;font-weight:600;font-size:15px;margin-top:0.2rem;color:rgb(66, 63, 63);">CodeWithHarry</h2>   
+<h4 style="font-size:13px;margin-left:3rem;margin-top:0.2rem;color:rgb(71, 71, 71)">9.7M Views - 1 year ago</h4>
+</div>   
+ </div>
